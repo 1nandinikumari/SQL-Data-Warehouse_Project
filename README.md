@@ -36,20 +36,20 @@ The data comes from **CRM** and **ERP** sources and is transformed step by step 
 --- 
 ## Results & Analysis
 
-Clean, deduplicated datasets for Customer, Product, and Sales.
-Golden views enable:
-Customer analytics (demographics, segmentation)
-Product analytics (category performance, maintenance tracking)
-Sales analytics (trends, top customers, regional analysis)
-Historical filtering allows reporting on relevant time periods.
-Data quality checks ensure accuracy and consistency across all layers.
+- Clean, deduplicated datasets for Customer, Product, and Sales.
+- Golden views enable:
+- Customer analytics (demographics, segmentation)
+- Product analytics (category performance, maintenance tracking)
+- Sales analytics (trends, top customers, regional analysis)
+- Historical filtering allows reporting on relevant time periods.
+- Data quality checks ensure accuracy and consistency across all layers.
 
 --- 
 ## 🔮 Future Improvements
 
-Automate ETL using Airflow, SQL Agent, or ADF.
-Implement incremental loading (CDC) for large datasets.
-Integrate BI tools (Power BI, Tableau) with Golden views.
+- Automate ETL using Airflow, SQL Agent, or ADF.
+- Implement incremental loading (CDC) for large datasets.
+- Integrate BI tools (Power BI, Tableau) with Golden views.
 
 --- 
 ## 📜 License
