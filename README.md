@@ -1,4 +1,4 @@
-# 📊 SQL Data Warehousing Project 
+# 🛢️ SQL Data Warehousing Project 
 
 ## 📌 Introduction
 This project demonstrates a **Data Warehousing solution** built on SQL using a layered architecture (**Bronze → Silver → Gold**).  
