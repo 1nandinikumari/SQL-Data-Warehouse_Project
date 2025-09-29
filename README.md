@@ -34,7 +34,7 @@ The data comes from **CRM** and **ERP** sources and is transformed step by step 
 4. **Gold Layer**: Create views for advanced analytics (Customer, Product, Sales).  
 
 --- 
-## Results & Analysis
+## 📊 Results & Analysis
 
 - Clean, deduplicated datasets for Customer, Product, and Sales.
 - Golden views enable:
